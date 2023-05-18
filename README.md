@@ -17,7 +17,7 @@ I am currently studying with HyperianDev in Skills Bootcamp in Data Science. I a
 
 ## Contact Me
 
-- LinkedIn: [Akshay Bhanderi]((https://www.linkedin.com/in/akshay-bhanderi/))
+- LinkedIn: [Akshay Bhanderi](https://www.linkedin.com/in/akshay-bhanderi/)
 
 
 Feel free to reach out to me if you have any questions or would like to collaborate on an exciting project!
