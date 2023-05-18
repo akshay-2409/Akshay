@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**akshay-2409/akshay-2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Data Scientist skilled in Python, statistical methods and machine learning. I can manage and visualise data, and communicate insights effectively. I am collaborative, hard working, adaptable, and passionate about solving complex problems. Here are some of my key skills:
+
+- Back-end development: Python
+- Data analysis: Python, SQL
+- Data Analysis: This involves the ability to collect, clean, analyse, and interpret data to derive meaningful insights and make informed decisions. Skills in statistical analysis, data visualisation, and using tools like Python libraries (such as Pandas, NumPy, and Matplotlib)
+- Natural Language Processing (NLP): Skills in NLP, including text preprocessing, sentiment analysis, named entity recognition, and language modeling.
+
+
+I am currently studying with HyperianDev in Skills Bootcamp in Data Science. I am able to learn to analyse large data sets, build predictive models and understand the Python language. 
+
+
+## Contact Me
+
+- LinkedIn: [Akshay Bhanderi]((https://www.linkedin.com/in/akshay-bhanderi/))
+
+
+Feel free to reach out to me if you have any questions or would like to collaborate on an exciting project!
+
+
