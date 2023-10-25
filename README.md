@@ -7,7 +7,7 @@
 I am an aspiring Data Scientist skilled in Python, statistical methods and machine learning. I can manage and visualise data, and communicate insights effectively. I am collaborative, hard working, adaptable, and passionate about solving complex problems. Here are some of my key skills:
 
 - Back-end development: Python
-- Data analysis: Python, SQL. This involves the ability to collect, clean, analyse, and interpret data to derive meaningful insights and make informed decisions. Skills in statistical analysis, data visualisation, and using tools like Python libraries (such as Pandas, NumPy, and Matplotlib)
+- Data analysis: Python. This involves the ability to collect, clean, analyse, and interpret data to derive meaningful insights and make informed decisions. Skills in statistical analysis, data visualisation, and using tools like Python libraries (such as Pandas, NumPy, and Matplotlib)
 - Natural Language Processing (NLP): Skills in NLP, including text preprocessing, sentiment analysis, named entity recognition, and language modeling.
 
 
